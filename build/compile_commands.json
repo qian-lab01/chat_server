@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/qian/web_server_copy/build",
+  "command": "/usr/bin/g++   -I/home/qian/web_server_copy/include  -g   -std=gnu++11 -o CMakeFiles/main.dir/src/chat_bot.cpp.o -c /home/qian/web_server_copy/src/chat_bot.cpp",
+  "file": "/home/qian/web_server_copy/src/chat_bot.cpp"
+},
+{
+  "directory": "/home/qian/web_server_copy/build",
+  "command": "/usr/bin/g++   -I/home/qian/web_server_copy/include  -g   -std=gnu++11 -o CMakeFiles/main.dir/src/http_conn.cpp.o -c /home/qian/web_server_copy/src/http_conn.cpp",
+  "file": "/home/qian/web_server_copy/src/http_conn.cpp"
+},
+{
+  "directory": "/home/qian/web_server_copy/build",
+  "command": "/usr/bin/g++   -I/home/qian/web_server_copy/include  -g   -std=gnu++11 -o CMakeFiles/main.dir/src/log.cpp.o -c /home/qian/web_server_copy/src/log.cpp",
+  "file": "/home/qian/web_server_copy/src/log.cpp"
+},
+{
+  "directory": "/home/qian/web_server_copy/build",
+  "command": "/usr/bin/g++   -I/home/qian/web_server_copy/include  -g   -std=gnu++11 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/qian/web_server_copy/src/main.cpp",
+  "file": "/home/qian/web_server_copy/src/main.cpp"
+},
+{
+  "directory": "/home/qian/web_server_copy/build",
+  "command": "/usr/bin/g++   -I/home/qian/web_server_copy/include  -g   -std=gnu++11 -o CMakeFiles/main.dir/src/mysql.cpp.o -c /home/qian/web_server_copy/src/mysql.cpp",
+  "file": "/home/qian/web_server_copy/src/mysql.cpp"
+},
+{
+  "directory": "/home/qian/web_server_copy/build",
+  "command": "/usr/bin/g++   -I/home/qian/web_server_copy/include  -g   -std=gnu++11 -o CMakeFiles/main.dir/src/no_active_conn.cpp.o -c /home/qian/web_server_copy/src/no_active_conn.cpp",
+  "file": "/home/qian/web_server_copy/src/no_active_conn.cpp"
+},
+{
+  "directory": "/home/qian/web_server_copy/build",
+  "command": "/usr/bin/g++   -I/home/qian/web_server_copy/include  -g   -std=gnu++11 -o CMakeFiles/main.dir/src/web_server.cpp.o -c /home/qian/web_server_copy/src/web_server.cpp",
+  "file": "/home/qian/web_server_copy/src/web_server.cpp"
+}
+]

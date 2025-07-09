@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/main.dir/src/chat_bot.cpp.o CMakeFiles/main.dir/src/http_conn.cpp.o CMakeFiles/main.dir/src/log.cpp.o CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/mysql.cpp.o CMakeFiles/main.dir/src/no_active_conn.cpp.o CMakeFiles/main.dir/src/web_server.cpp.o  -o main -lpthread -lmysqlcppconn -lcurl 

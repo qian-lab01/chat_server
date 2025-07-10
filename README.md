@@ -6,8 +6,8 @@
 登录页面
 ![登录](https://github.com/qian-lab01/chat_server/blob/master/resources/%E6%B3%A8%E5%86%8C.png)
 注册页面
-![注册]()
+![注册](https://github.com/qian-lab01/chat_server/blob/master/resources/%E6%B3%A8%E5%86%8C.png)
 聊天界面
-![聊天]()
+![聊天](https://github.com/qian-lab01/chat_server/blob/master/resources/%E8%81%8A%E5%A4%A9%E7%95%8C%E9%9D%A2.png)
 问答展示
-![问答]()
+![问答](https://github.com/qian-lab01/chat_server/blob/master/resources/%E9%97%AE%E9%A2%98%E5%9B%9E%E7%AD%94.png)
